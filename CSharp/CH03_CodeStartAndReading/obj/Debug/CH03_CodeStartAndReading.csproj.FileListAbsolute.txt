@@ -1,0 +1,7 @@
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\bin\Debug\CH03_CodeStartAndReading.exe.config
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\bin\Debug\CH03_CodeStartAndReading.exe
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\bin\Debug\CH03_CodeStartAndReading.pdb
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\obj\Debug\CH03_CodeStartAndReading.csprojAssemblyReference.cache
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\obj\Debug\CH03_CodeStartAndReading.csproj.CoreCompileInputs.cache
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\obj\Debug\CH03_CodeStartAndReading.exe
+D:\kkaengji\CSharp\CSharp\CH03_CodeStartAndReading\obj\Debug\CH03_CodeStartAndReading.pdb

@@ -1,0 +1,7 @@
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\bin\Debug\CH08_FuncEx.exe.config
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\bin\Debug\CH08_FuncEx.exe
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\bin\Debug\CH08_FuncEx.pdb
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\obj\Debug\CH08_FuncEx.csprojAssemblyReference.cache
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\obj\Debug\CH08_FuncEx.csproj.CoreCompileInputs.cache
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\obj\Debug\CH08_FuncEx.exe
+D:\kkaengji\CSharp\CSharp\CH08_FuncEx\obj\Debug\CH08_FuncEx.pdb

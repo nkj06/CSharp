@@ -1,0 +1,7 @@
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\bin\Debug\CH07_ClassAccess.exe.config
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\bin\Debug\CH07_ClassAccess.exe
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\bin\Debug\CH07_ClassAccess.pdb
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\obj\Debug\CH07_ClassAccess.csprojAssemblyReference.cache
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\obj\Debug\CH07_ClassAccess.csproj.CoreCompileInputs.cache
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\obj\Debug\CH07_ClassAccess.exe
+D:\kkaengji\CSharp\CSharp\CH07_ClassAccess\obj\Debug\CH07_ClassAccess.pdb
